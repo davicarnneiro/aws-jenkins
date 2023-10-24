@@ -1,1 +1,1 @@
-# live-jenkins-aws
+# aws-jenkins
